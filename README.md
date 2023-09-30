@@ -1,3 +1,3 @@
 # SIH
-This is github repository is for our SIH project
+This github repository is for our SIH project
 
